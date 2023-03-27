@@ -1,2 +1,1 @@
-# SENG 207
- Programming for Engineers
+# SENG 207: Programming for Engineers☺
