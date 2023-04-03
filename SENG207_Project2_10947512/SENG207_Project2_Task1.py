@@ -6,7 +6,7 @@ sg.theme('DarkAmber')
 
 
 layout = [ 
-            # [sg.Text('Enter text to speak:')],       
+                
             [sg.InputText(key='Inputed_Text'), sg.Button('Speak', key='SPEAK_BUTTON')],      
             [sg.Text('Select Voice Type'), sg.Radio('Male','VOICE',default=True, key='male'), sg.Radio('Female', 'VOICE', key='female')],
 ]
